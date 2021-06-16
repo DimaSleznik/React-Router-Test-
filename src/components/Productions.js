@@ -5,7 +5,7 @@ export default function Productions() {
   return (
     <Router>
       <div>
-        <h1>Our productins</h1>
+       <h1>Our productins</h1>
         <ul>
           <li>
             <Link to="/productions/Clothes">Clothes</Link>
